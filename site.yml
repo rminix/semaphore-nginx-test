@@ -1,0 +1,7 @@
+---
+- name: Apply role nginx
+  hosts: all
+  become: true
+  roles:
+    - nginx
+  tags: nginx

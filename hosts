@@ -1,0 +1,2 @@
+[servers]
+srv01 ansible_host=<IP_ADDRESS> ansible_user=<USERNAME>
